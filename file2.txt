@@ -1,1 +1,3 @@
 some text file 2
+
+some text for second commit
